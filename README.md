@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Yorkshire born, Bristol based
